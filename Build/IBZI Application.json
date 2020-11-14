@@ -1,0 +1,16 @@
+{
+"companyName": "Николай Чернышов",
+"productName": "IBZI Chernyshov 4k 8gr",
+"productVersion": "1",
+"dataUrl": "IBZI Application.data.unityweb",
+"wasmCodeUrl": "IBZI Application.wasm.code.unityweb",
+"wasmFrameworkUrl": "IBZI Application.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
