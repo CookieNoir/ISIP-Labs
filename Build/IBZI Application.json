@@ -1,7 +1,7 @@
 {
 "companyName": "Николай Чернышов",
 "productName": "IBZI Chernyshov 4k 8gr",
-"productVersion": "4",
+"productVersion": "5",
 "dataUrl": "IBZI Application.data.unityweb",
 "wasmCodeUrl": "IBZI Application.wasm.code.unityweb",
 "wasmFrameworkUrl": "IBZI Application.wasm.framework.unityweb",
